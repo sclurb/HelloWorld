@@ -12,6 +12,8 @@ namespace HelloWorld
         {
 
             Console.WriteLine("Hello World");
+            Console.WriteLine("I have now done an update on my work Computer!");
+
             Console.ReadKey();
         }
     }
